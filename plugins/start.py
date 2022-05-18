@@ -113,7 +113,6 @@ async def start_command(client: Bot, message: Message):
             except BaseException:
                 pass
     else:
-        out = start_button(client)
         await message.reply_sticker(sticker="CAACAgEAAxkBAAIwFmJO_r3xYHHoHJoWozgv7fUYiOdiAAJsAQAC3XJ5RvovrqpI2W7mIwQ", quote=True)
         await message.reply_text(
             text=START_MSG.format(
