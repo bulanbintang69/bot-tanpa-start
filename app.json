@@ -11,7 +11,7 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
-      "value": "5367410895:AAHbVZDtgATLDBuVwJ0ZdsNzFa7-4OFhXV8"
+      "value": "1826399703:AAEwRBv_Jl37WUdQcXm5EY4svjOb9jZoBSg"
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
